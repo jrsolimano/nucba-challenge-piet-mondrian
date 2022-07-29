@@ -14,7 +14,7 @@ body{
     width: 890px;
     height: 676px;
     margin: auto;
-    /*border: 20px solid black;*/
+    border: 21px solid black;
     display:flex;
 
 }
@@ -206,7 +206,7 @@ body{
     height: 122px;
     background-color: #0000ff;
     border-right: 21px solid black;
-    border-bottom: 21px  solid black;
+    /*border-bottom: 21px  solid black;*/
 }
 
 .dos .dos-inferior-bis .dos{
@@ -216,7 +216,7 @@ body{
     height: 122px;
     background-color: #ffff00;
     border-right: 21px solid black;
-    border-bottom: 21px  solid black;
+    /*border-bottom: 21px  solid black;*/
 }
 
 .dos .dos-inferior-bis .tres{
@@ -226,7 +226,7 @@ body{
     height: 122px;
     background-color: white;
     border-right: 21px solid black;
-    border-bottom: 21px  solid black;
+    /*border-bottom: 21px  solid black;*/
 }
 
 .tres .tres-uno{
@@ -237,19 +237,19 @@ body{
     border-bottom: 21px  solid black;
 }
 
-.tres .tres-dos{
+/*.tres .tres-dos{
 
     width: 83px;
     height: 310px;
     background-color: white;
-    /*border-bottom: 21px  solid black;*/
-}
+    border-bottom: 21px  solid black;
+}*/
 
 .tres .tres-tres{
 
-    width: 77px;
-    height: 114px;
+    width: 80px;
+    height: 330px;
     background-color: white;
-    border-top: 21px  solid black;
+    border-bottom: 21px  solid black;
 
 }
