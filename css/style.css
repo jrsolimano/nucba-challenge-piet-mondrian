@@ -1,0 +1,255 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+
+}
+body{
+
+    padding-top: 100px;
+    /*background-color: black;*/
+}
+.obra{
+
+    width: 890px;
+    height: 676px;
+    margin: auto;
+    /*border: 20px solid black;*/
+    display:flex;
+
+}
+
+.uno-uno{
+
+    width: 92.5px;
+    height: 185.0px;
+    background-color: white;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.uno-dos{
+
+    width: 92.5px;
+    height: 209px;
+    background-color: white;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.uno-tres{
+
+    width: 92.5px;
+    height: 244px;
+    background-color: white;
+    border-right: 21px solid black;
+
+}
+
+.dos .dos-superior{
+
+    display: flex;
+
+}
+.dos .dos-superior .uno{
+
+
+    width: 99px;
+    height: 185.0px;
+    background-color: #ffff00;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-superior .dos{
+
+
+    width: 231px;
+    height: 185.0px;
+    background-color: #0000ff;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-superior .tres{
+
+
+    width: 269px;
+    height: 185.0px;
+    background-color: #f20d0d;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-superior .cuatro{
+
+
+    width: 78px;
+    height: 185.0px;
+    background-color: #ffff00;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-inferior{
+
+    display: flex;
+
+}
+
+.dos .dos-inferior .uno{
+
+
+    width: 99px;
+    height: 209px;
+    background-color: white;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-inferior .dos{
+
+
+    width: 231px;
+    height: 209px;
+    background-color: white;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-inferior .tres{
+
+
+    width: 269px;
+    height: 209px;
+    background-color: #0000ff;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-inferior .tres .tres-uno{
+
+    width: 94px;
+    height: 209px;
+    background-color: #ffff00;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+
+}
+
+.dos .dos-inferior .cuatro{
+
+    width: 78px;
+    height: 209px;
+    background-color: #f20d0d;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+/* DOS-INFERIOR-BIS */
+
+
+.dos .dos-superior-bis{
+
+    display: flex;
+
+}
+.dos .dos-superior-bis .uno{
+
+
+    width: 100px;
+    height: 122px;
+    background-color: white;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-superior-bis .dos{
+
+
+    width: 325px;
+    height: 122px;
+    background-color: #f20d0d;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-superior-bis .tres{
+
+
+    width: 175px;
+    height: 122px;
+    background-color: white;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-superior-bis .cuatro{
+
+
+    width: 77px;
+    height: 122px;
+    background-color: #ffff00;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-inferior-bis{
+
+    display: flex;
+
+}
+.dos .dos-inferior-bis .uno{
+
+
+    width: 100px;
+    height: 122px;
+    background-color: #0000ff;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-inferior-bis .dos{
+
+
+    width: 325px;
+    height: 122px;
+    background-color: #ffff00;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.dos .dos-inferior-bis .tres{
+
+
+    width: 252px;
+    height: 122px;
+    background-color: white;
+    border-right: 21px solid black;
+    border-bottom: 21px  solid black;
+}
+
+.tres .tres-uno{
+
+    width: 83px;
+    height: 186px;
+    background-color: white;
+    border-bottom: 21px  solid black;
+}
+
+.tres .tres-dos{
+
+    width: 83px;
+    height: 330px;
+    background-color: white;
+    /*border-bottom: 21px  solid black;*/
+}
+
+.tres .tres-tres{
+
+    width: 77px;
+    height: 114px;
+    background-color: white;
+    border-top: 21px  solid black;
+
+}
